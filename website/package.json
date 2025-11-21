@@ -1,0 +1,23 @@
+{
+  "name": "moutnify_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "metamodule",
+    "mountify",
+    "overlayfs"
+  ],
+  "author": "kowx712",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.24"
+  }
+}
